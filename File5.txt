@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file 55
+=======
+hoal
+>>>>>>> feature/mejora1
